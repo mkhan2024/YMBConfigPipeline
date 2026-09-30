@@ -1,1 +1,1 @@
-# YMBConfigPipeline
+This repo is a small CI test for Yarrow-Mullein Bank. When code is pushed, GitHub Actions runs tests so Ben Secure can see who changed what and if it passed. Failed tests should stop bad code going to main.
